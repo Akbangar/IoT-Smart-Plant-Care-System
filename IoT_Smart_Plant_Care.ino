@@ -12,11 +12,11 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Kasar"
-#define WIFI_PASSWORD "123456789"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDuAGP0cf-gF0h8kwVkOml5URhgu-9mWoc"
+#define API_KEY ""
 // Insert RTDB URLefine the RTDB URL */
 //https://vehiclecrashgps-default-rtdb.firebaseio.com/
 //https://soilmoistureiot-default-rtdb.firebaseio.com/
